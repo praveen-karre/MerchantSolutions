@@ -12,7 +12,7 @@ Two ways to run as follows:
 * Run ``` mvn clean package ```
 * Run ``` docker-compose up ```
 
-Swagger Link: http://localhost:8080/swagger-ui/index.html -- INPROGRESS
+Swagger Link: http://localhost:8080/swagger-ui/index.html -- inprogress
 
 API can be accessed via:
 
